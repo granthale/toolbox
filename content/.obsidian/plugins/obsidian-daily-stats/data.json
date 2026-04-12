@@ -26,12 +26,21 @@
     "2025/9/29": 184,
     "2025/9/30": 20,
     "2025/10/3": 0,
-    "2025/10/15": 0
+    "2025/10/15": 0,
+    "2026/3/12": 237
   },
   "todaysWordCount": {
-    "Plots/career.md": {
-      "initial": 377,
-      "current": 376
+    "Pieces/My planning system.md": {
+      "initial": 469,
+      "current": 469
+    },
+    "Pieces/Once goals are set, focus on the process.md": {
+      "initial": 364,
+      "current": 374
+    },
+    "Pieces/Faster, better decisions.md": {
+      "initial": 2,
+      "current": 229
     }
   }
 }

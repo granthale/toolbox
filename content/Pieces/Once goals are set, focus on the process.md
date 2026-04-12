@@ -20,4 +20,4 @@ How can we better enjoy the process (i.e., the incremental steps)?
 - Leave open threads at the end of a session (e.g., a highlighted question or next experiment) to allow for an easier start next time
 
 ---
-See [[Motivation & drive (Huberman)]]
+See [[Motivation & drive (Huberman)]] and [Growth Without Goals](https://colossus.com/growth-without-goals/)

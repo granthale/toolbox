@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/career.md",
+                "file": "Pieces/Faster, better decisions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "career"
+              "title": "Faster, better decisions"
             }
           },
           {
@@ -32,8 +32,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,17 +238,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d66982df7f9c26f1",
+  "active": "339263d3b2e167bf",
   "lastOpenFiles": [
+    "Pieces/Once goals are set, focus on the process.md",
+    "Pieces/Faster, better decisions.md",
+    "Pieces/My planning system.md",
+    "Pieces/My 12 questions.md",
+    "Pieces/Scheduled worry.md",
+    "Pieces/Making the most of a situation.md",
+    "Notes/Study habits (Huberman).md",
     "Plots/career.md",
     "Plots/writing.md",
-    "Pieces/Making the most of a situation.md",
-    "Pieces/Scheduled worry.md",
-    "Pieces/Once goals are set, focus on the process.md",
-    "Notes/Study habits (Huberman).md",
     "Notes/AD&D & focus (Huberman).md",
-    "Pieces/My 12 questions.md",
-    "Pieces/My planning system.md",
     "about.md",
     "index.md",
     "Notes/Planning (misc).md",
@@ -266,7 +266,6 @@
     "Plots/reading-learning.md",
     "Plots/purpose.md",
     "Plots/community.md",
-    "Plots/agency.md",
     "images/digital-garden.webp",
     "images/growth.webp",
     "images/skating.png",
