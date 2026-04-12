@@ -21,16 +21,6 @@
               "icon": "lucide-file",
               "title": "Faster, better decisions"
             }
-          },
-          {
-            "id": "d66982df7f9c26f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ]
       }
@@ -240,8 +230,8 @@
   },
   "active": "339263d3b2e167bf",
   "lastOpenFiles": [
-    "Pieces/Once goals are set, focus on the process.md",
     "Pieces/Faster, better decisions.md",
+    "Pieces/Once goals are set, focus on the process.md",
     "Pieces/My planning system.md",
     "Pieces/My 12 questions.md",
     "Pieces/Scheduled worry.md",
