@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pieces/Faster, better decisions.md",
+                "file": "Pieces/On faster, better decisions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Faster, better decisions"
+              "title": "On faster, better decisions"
             }
           }
         ]
@@ -230,7 +230,7 @@
   },
   "active": "339263d3b2e167bf",
   "lastOpenFiles": [
-    "Pieces/Faster, better decisions.md",
+    "Pieces/On faster, better decisions.md",
     "Pieces/Once goals are set, focus on the process.md",
     "Pieces/My planning system.md",
     "Pieces/My 12 questions.md",
