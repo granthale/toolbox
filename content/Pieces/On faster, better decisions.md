@@ -1,4 +1,3 @@
-In the last few weeks, I've had to make a few relatively simple decisions, most recently on whom I want to share my next apartment with. These decisions have gotten as complicated as I've let them — and in the recent case — expanded to an entire day of thinking & analyzing, much to my ire.
 
 To avoid over-rotating in the future, I'm proposing this algo:
 1. What do I want? How can I work backwards to make it happen?
