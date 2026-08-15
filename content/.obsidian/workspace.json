@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "On faster, better decisions"
             }
+          },
+          {
+            "id": "5f7ec68038484b8c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +241,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "339263d3b2e167bf",
+  "active": "5f7ec68038484b8c",
   "lastOpenFiles": [
     "Pieces/On faster, better decisions.md",
     "Pieces/Once goals are set, focus on the process.md",
